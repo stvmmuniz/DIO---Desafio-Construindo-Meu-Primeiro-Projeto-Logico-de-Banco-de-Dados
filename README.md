@@ -1,5 +1,5 @@
 # DIO-Desafio: Construindo seu Primeiro Projeto Lógico de Banco de Dados
-Este é um projeto prático de modelagem de banco de dados para atender ao Desafio: Construindo seu Primeiro Projeto Lógico de Banco de Dados, parte integrante o Bootcamp da Klabin - Excel e Power BI Dashboards.
+Este é um projeto prático de modelagem de banco de dados para atender ao Desafio: Construindo Meu Primeiro Projeto Lógico de Banco de Dados, parte integrante o Bootcamp da Klabin - Excel e Power BI Dashboards.
 
 ## Contexto Inicial:
 
