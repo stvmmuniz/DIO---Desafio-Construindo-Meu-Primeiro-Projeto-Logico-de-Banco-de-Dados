@@ -13,3 +13,6 @@ E abaixo como ficou ao final do desafio:
 
 ![Minha imagem](new_schema_stvmmuniz_ecommerce.jpg)
 
+## Atividades realizadas:
+- [X] jkhkjkj
+
