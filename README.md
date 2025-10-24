@@ -6,4 +6,10 @@ Este é um projeto prático de modelagem de banco de dados para atender ao Desaf
 Iniciamos o desafio a partir do rascunho de modelagem do banco de dados para uma aplicação de ecommerce desenvolvido nos exercícios das aulas.
 
 A imagem a seguir mostra o estado inicial do modelo de banco de dados:
+
 ![Minha imagem](inicial_schema.png)
+
+E abaixo como ficou ao final do desafio:
+
+![Minha imagem](new_schema_stvmmuniz_ecommerce.jpg)
+
