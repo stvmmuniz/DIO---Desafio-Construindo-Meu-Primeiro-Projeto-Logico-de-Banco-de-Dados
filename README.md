@@ -86,9 +86,9 @@ E abaixo como ficou ao final do desafio:
         - Agrupando Registros e Tabelas com JOIN
         - Queries de Mútiplas Tabelas com JOINs
      
+<br><br><br>
+**Escrito por:** *stvmmuniz*
 
-
-### Escrito por stvmmuniz
 
 
 
